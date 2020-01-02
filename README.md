@@ -2,4 +2,5 @@
 This is a collaborative project for practicing version control for the Spring 2020 UCF ENG 6801 course. 
 You will be creating a collaborative syllabus for ENG 6800: Introduction to Texts and Technology.
 Instructions for the assignment can be found on our Webcourses site.
-The 
+
+The IntroToT&T.md file is the syllabus skeleton that you will be editing.
