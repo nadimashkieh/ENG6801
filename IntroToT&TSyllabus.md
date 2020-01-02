@@ -1,6 +1,6 @@
-#### Course Information
-## Course Description
-## Course Readings
-#### Course Policies
-#### Assignments
-#### Schedule
+## Course Information
+#### Course Description
+#### Course Readings
+## Course Policies
+## Assignments
+## Schedule
