@@ -11,7 +11,9 @@ This should include policies about participation expecttions; attendance; late w
 ## Assignments
 This section should include a list of assignments with their point totals or percentage weights; a brief description of each; grading standards; and a grading scale (i.e., +/- scale or straight letter grades). Examples might include:
 - Week 1 attendance assignment
-- Discussion posts
+- **Exam Summaries**
+
+  -10 times per semester, students should summarize one of the required weekly readings as if for a candidacy exam. Create a template to structure each exam summary. The template should be designed using the following headings as a minimum requirement: (1.) Author's argument (2.) Key Concepts (3.) Key Quotes (4.) Strengths/Weaknesses (5.) Connections to your research (6.) Connections to other authors/texts (7.) MLA or APA reference entry
 - Final paper or project
 ## Schedule
 The minimum required here is due dates for major assignments and exams/assessments; method(s) for submitting assignments; and the date and format of the final exam. You may want to add information on withdrawal dates or other events.
