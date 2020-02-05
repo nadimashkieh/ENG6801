@@ -9,9 +9,18 @@ This should include required texts as well as other applicable materials (if any
 ## Course Policies
 This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
 ## Assignments
-List of Assignments and Point Value:  This is a 100 point class.  In the first week, an assignment will be placed on Canvas for Academic Attendance and Financial Aid purposes.  This assignment is worth 2 points.  Discussion points throughout the semester will constitute for 10 points of the overall grade, and will take place throughout the semester.  For our technology assignment, we will be creating a Twinery literature review which will allow us to analyze the differing opinions of seprate and sometimes opposite theorists in order to show where they diverge and connect through an interactive narrative which can be traversed in multiplicitous ways.  This will be a group project which will showcase each individual student's response within the structure of the narrative.  This assignment will be worth 20 points.  Our Final Paper, will be worth 20 points.  In order to make sure that you are prepared for final exam and core reading exam for second year students, you will be taking exam notes throughout the semester which are worth 18 points.  You will also be putting together a Mock Exam, which will allow for practice with the formal written core texts for T and T, worth 20 points.  Finally, you will be doing a Peer Revision of the Final Paper for the class which will be worth 10 points.
-- Week 1 attendance assignment
-- Discussion posts
-- Final paper or project
+List of Assignments and Point Value: 
+* Introductory Discussion Post                                             	 	5 points
+* Mind Map Assignment 				                        	                      5 points
+* Twinery Literature Review                                                  20 points
+* T&T Conference Collection Website 					                               20 points
+* Exam Notes 	                                            				           20 points
+* Mock Comprehensive Exam                                                 	 25 points
+
+Total Points Possible:                                                      100 points
+
+**Introductory Discussion Post**: 
+In the first week, an assignment will be placed on Canvas for Academic Attendance and Financial Aid purposes. This assignment is worth 2 points and is due by the end of the first school week of the semester.   
+
 ## Schedule
 The minimum required here is due dates for major assignments and exams/assessments; method(s) for submitting assignments; and the date and format of the final exam. You may want to add information on withdrawal dates or other events.
