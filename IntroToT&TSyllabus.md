@@ -12,7 +12,8 @@
 The Introduction to Text and Technology course is the core introductory course in the Texts and Technologies Ph.D. program. Its goal is to familiarize students with core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. In addition to engaging with theoretical content from a variety of scholars working in T&T-related fields, you will also learn applied skills this semester that will aid in our understanding and application of digital theories and methodologies. Our approach to understanding digital scholarship will be experimental and ambitious; expect to learn some basic digital literacy skills, but also expect to revise and iterate through different ideas as they evolve with your knowledge and interests. 
 #### Required Materials
 This should include required texts as well as other applicable materials (if any).
-## Course Policies
+
+### Course Policies
 
 **Attendance**
 The expectation is for students to be in every class, on time. Classes are absolutely essential to success in the course. If you cannot be at a class, let me know before-hand. The following types of absences are allowed upon previous notification: 
