@@ -24,8 +24,21 @@ List of Assignments and Point Value:
 * Mock Comprehensive Exam.................30 points
 Total Points Possible: 100 points
 
-**Introductory Discussion Post**: 
+#### Introductory Discussion Post:
 In the first week, an assignment will be placed on Canvas for Academic Attendance and Financial Aid purposes. This assignment is worth 2 points and is due by the end of the first school week of the semester.   
+
+#### Exam Summaries:
+
+10 times per semester, students should summarize one of the required weekly readings as if for a candidacy exam. Create a template to structure each exam summary. The template should be designed using the following headings as a minimum requirement: (1.) Author's argument (2.) Key Concepts (3.) Key Quotes (4.) Strengths/Weaknesses (5.) Connections to your research (6.) Connections to other authors/texts (7.) MLA or APA reference entry
+
+#### Mock Comprehensive Exam:
+
+This exam is practice for the comprehensive exams students will take once their coursework in T&T is complete.  This exam aims to check students’ understanding  of Texts and Technology as a field of knowledge as measured by the texts students read in class and prepared exam summaries for.
+
+Students should  answer the questions below and respond to each thoroughly with an essay that displays their knowledge and has appropriate development and details. Each essay should be a minimum of six pages in length. Please include the question at the beginning of each response essay. Double-space your responses, use a 12-point font, and insert page numbers.
+
+1. What is Texts and Technology? How does your work fit into it? Use at least four authors in your response.
+2. What is interdisciplinarity? How is your work interdisciplinary? Use at least four authors in your response. 
 
 ## Schedule
 The minimum required here is due dates for major assignments and exams/assessments; method(s) for submitting assignments; and the date and format of the final exam. You may want to add information on withdrawal dates or other events.
